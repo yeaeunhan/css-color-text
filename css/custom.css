@@ -22,9 +22,9 @@ body {
   font-size: 12px;
 }
 
-.small {
- font-size: 14px;
- font-color: black;
+small {
+ size: 14px;
+ color: black;
 }
 
 a {
