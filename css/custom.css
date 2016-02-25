@@ -16,13 +16,15 @@ body {
 .box {  
   border: 2px solid #ccc;
   border-radius: 11px;
-  margin: 10px;
+  margin: 50px;
   width: 500px;
   padding: 6px 13px;
   font-size: 12px;
 }
+a {
 
 a:hover {
-  font-color: #99ffcc;
+  font-color: white;
+}
 }
 /*insert custom css below*/
