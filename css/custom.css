@@ -40,7 +40,7 @@ a:hover{
   color: white;
 }
 
-read-more:hover{
+.read-more:hover{
   text-decoration: underline;
 }
 /*insert custom css below*/
