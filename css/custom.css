@@ -22,9 +22,10 @@ body {
   font-size: 12px;
 }
 a {
-
-a:hover {
-  font-color: white;
+  font-color: blue;
+  text-decoration: none;
 }
-}
+    a:hover {
+      font-color: white;
+    }
 /*insert custom css below*/
