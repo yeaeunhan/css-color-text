@@ -39,4 +39,8 @@ a:visited {
 a:hover{
   color: white;
 }
+
+read-more:hover{
+  text-decoration: underline;
+}
 /*insert custom css below*/
